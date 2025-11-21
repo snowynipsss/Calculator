@@ -9,7 +9,7 @@ body {
 
 .calculator {
     width: 320px;
-    background: violet;
+    background: blue;
     padding: 20px;
     border-radius: 15px;
     box-shadow: 0 5px 20px rgba(0,0,0,0.2);
@@ -58,6 +58,7 @@ body {
 .equal:active {
     background: #1877d3;
 }
+
 
 
 
