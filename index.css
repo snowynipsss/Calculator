@@ -1,5 +1,5 @@
 body {
-    background: #6495ED;
+    background: #764ba2;
     font-family: Arial, sans-serif;
     display: flex;
     justify-content: center;
@@ -9,7 +9,7 @@ body {
 
 .calculator {
     width: 320px;
-    background: blue;
+    background: violet;
     padding: 20px;
     border-radius: 15px;
     box-shadow: 0 5px 20px rgba(0,0,0,0.2);
@@ -58,6 +58,7 @@ body {
 .equal:active {
     background: #1877d3;
 }
+
 
 
 
