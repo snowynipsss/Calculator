@@ -1,5 +1,5 @@
 body {
-    background: #e8edf5;
+    background: #764ba2;
     font-family: Arial, sans-serif;
     display: flex;
     justify-content: center;
@@ -58,3 +58,4 @@ body {
 .equal:active {
     background: #1877d3;
 }
+
